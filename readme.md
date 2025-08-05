@@ -242,7 +242,6 @@ Discuss how backend systems communicate using APIs:
       - **CRUD Operations:** Create, Read, Update, Delete.
       - Via **HTTP protocol**
     - `JSON` and `XML` formats.
-    <img src="./img/RestAPI.png" style="width:1000px;display:block; padding-top:10px;padding-bottom:10px">
 1. **Authentication in APIs:**
     - `API keys`, `OAuth2`, `JWT`.
 1. **API Documentation:**
