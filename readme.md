@@ -341,10 +341,10 @@ Http methods : <a href = "https://automatenow.io/http-request-methods/">Automate
 Http Headers : <a href = "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers">Developer.mozilla.org</a>
 
 Response codes : <a href ="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status">developer.mozilla.org</a>
-</pre>
 
 DNS : <a href = "https://youtu.be/NiQTs9DbtW4?si=qZcf0UjNtZGmeDKZ">What is DNS? (and how it makes the Internet work) -video-</a>
 
 Frameworks vs Libraries : <a href = "https://www.geeksforgeeks.org/software-engineering/software-framework-vs-library/">geeksforgeeks.org</a>
 
 Runtime Enviroment : <a href = "https://www.ionos.com/digitalguide/websites/web-development/what-is-a-runtime-environment/">Ionos.com</a>
+</pre>
