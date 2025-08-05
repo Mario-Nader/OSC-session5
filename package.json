@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^22.18.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "session5ta7dir",
+  "version": "1.0.0",
+  "description": "1. what is a Host ?\r 2. what is a server ?\r 3. what is a network ?\r 4. what is the OSI model ?\r 5. what are the first 4 layers of the OSI model\r     - physical layer \r     - Data link  \r     - Network \r     - Transport",
+  "main": "serverExpress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
